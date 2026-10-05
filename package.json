@@ -1,0 +1,26 @@
+{
+  "name": "typing-speed-game",
+  "version": "1.0.0",
+  "description": "A clean, responsive typing speed test built with plain HTML, CSS and JavaScript. No frameworks, no build step, no server.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohiuddinramzan/typing-speed-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohiuddinramzan/typing-speed-game/issues"
+  },
+  "homepage": "https://github.com/mohiuddinramzan/typing-speed-game#readme",
+  "dependencies": {
+    "@capacitor/android": "^6.2.2",
+    "@capacitor/cli": "^6.2.2",
+    "@capacitor/core": "^6.2.2"
+  }
+}
